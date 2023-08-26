@@ -1,0 +1,6 @@
+C:\Users\20666\source\repos\Library\Modbus\bin\Debug\Modbus.dll
+C:\Users\20666\source\repos\Library\Modbus\bin\Debug\Modbus.pdb
+C:\Users\20666\source\repos\Library\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\20666\source\repos\Library\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\20666\source\repos\Library\Modbus\obj\Debug\Modbus.dll
+C:\Users\20666\source\repos\Library\Modbus\obj\Debug\Modbus.pdb
